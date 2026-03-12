@@ -1,2 +1,30 @@
-# e-learning-homepage-clone
-Built a desktop layout clone of an E-learning website using HTML and CSS including courses, events, gallery, pricing and blog sections.
+# E-Learning Homepage Clone
+
+Frontend clone of an E-learning website homepage built using HTML and CSS.
+
+## Technologies Used
+- HTML
+- CSS
+- Font Awesome
+
+## Screenshot
+
+<img src="HomePage.png">
+<img src="Courses.png">
+<img src="FooterSS.png">
+
+## Features
+- Header and Navigation
+- Courses Section
+- Events Section
+- Gallery
+- Pricing
+- Blog Section
+- Footer
+
+## Note
+This project currently includes only desktop layout.
+Responsive design will be added later.
+
+## Author
+Imran Shaikh
