@@ -2,7 +2,7 @@
 
 Frontend clone of an E-learning website homepage built using HTML and CSS.
 
-**Live Demo:** https://Imranhabib123.github.io/elearning-homepage-clone
+**Live Demo:** https://imranhabib123.github.io/e-learning-homepage-clone/
 
 ## Technologies Used
 - HTML
